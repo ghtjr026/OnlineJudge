@@ -78,5 +78,17 @@
     <ClCompile Include="P14888연산자 끼워넣기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="P1931회의실 배정.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="P11399ATM.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="P2630색종이만들기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="P1992쿼드트리.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
